@@ -1068,4 +1068,6 @@
   </project>
   <!-- END open-source projects -->
 
+  <!-- AICP -->
+  <include name="aicp.xml" />
 </manifest>
