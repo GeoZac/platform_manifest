@@ -90,7 +90,7 @@
   <project path="packages/resources/deviceparts" name="AICP/packages_resources_deviceparts" remote="aicp" />
   <project path="packages/resources/devicesettings" name="AICP/packages_resources_devicesettings" remote="aicp" />
   <project path="platform_manifest" name="AICP/platform_manifest" remote="aicp" />
-  <project path="system/core" name="LineageOS/system_core" groups="pdk" remote="lineageL" />
+  <project path="system/core" name="LineageOS/system_core" groups="pdk" remote="lineage" />
   <!-- <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" remote="lineage" /> -->
   <project path="system/sepolicy" name="AICP/system_sepolicy" groups="pdk" remote="aicp" />
 
