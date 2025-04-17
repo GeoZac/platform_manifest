@@ -5,14 +5,8 @@
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
 
-<<<<<<< HEAD
   <default revision="refs/tags/android-15.0.0_r26"
            remote="aosp"
-=======
-  <default revision="refs/heads/lineage-22.2"
-           remote="github"
-           sync-c="true"
->>>>>>> 7dc14b97 (manifest: 22.1 -> 22.2)
            sync-j="4" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-15.0.0_r26"/>
