@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remove-project name="platform/build/release" />
   <remove-project name="device/amlogic/yukawa" />
   <remove-project name="device/amlogic/yukawa-kernel" />
   <remove-project name="device/generic/common" />
@@ -66,6 +65,8 @@
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/build" />
+  <remove-project name="platform/build/blueprint" />
+  <remove-project name="platform/build/release" />
   <remove-project name="platform/build/soong" />
   <!-- <remove-project name="platform/cts" /> -->
   <!-- <remove-project name="platform/external/android-nn-driver" /> -->
@@ -78,6 +79,7 @@
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/exfatprogs" />
   <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/kotlinc"/>
   <!-- <remove-project name="platform/external/icu" /> -->
   <!-- <remove-project name="platform/external/libcxx" /> -->
   <!-- <remove-project name="platform/external/libvpx" /> -->
